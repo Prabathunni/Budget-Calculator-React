@@ -8,9 +8,8 @@ A simple tool to quickly calculate discounted prices.
 3. Click **Calculate** to see the final price.
 
 ## Built With
-- HTML
+- REACT
 - CSS
-- JavaScript
 
 
 
